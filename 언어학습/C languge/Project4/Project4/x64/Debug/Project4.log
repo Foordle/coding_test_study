@@ -1,0 +1,5 @@
+﻿  소스1.cpp
+C:\Users\JEONSEUNGYOON\Desktop\코딩관련\C languge\Project4\Project4\소스1.cpp(8,12): error C2440: 'return': 'char [100]'에서 'char'(으)로 변환할 수 없습니다.
+C:\Users\JEONSEUNGYOON\Desktop\코딩관련\C languge\Project4\Project4\소스1.cpp(8,9): message : 이 변환이 가능한 컨텍스트가 없습니다.
+C:\Users\JEONSEUNGYOON\Desktop\코딩관련\C languge\Project4\Project4\소스1.cpp(13,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\JEONSEUNGYOON\Desktop\코딩관련\C languge\Project4\Project4\소스1.cpp(13,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
