@@ -1,3 +1,0 @@
-﻿  prac16-3.cpp
-C:\Users\JEONSEUNGYOON\Desktop\코딩관련\C languge\2022-02-26\2022-02-26\prac16-3.cpp(16,30): error C2440: '초기화 중': 'void'에서 'int'(으)로 변환할 수 없습니다.
-C:\Users\JEONSEUNGYOON\Desktop\코딩관련\C languge\2022-02-26\2022-02-26\prac16-3.cpp(16,13): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
